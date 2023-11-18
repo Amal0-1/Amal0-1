@@ -1,7 +1,8 @@
-<h1 align="center">Hello 👋, I'm Amal</h1>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/p61TIgqUXeZFqwmkWD/giphy.gif?cid=ecf05e47oc97v1oyhlw8snv1ghcsj4phlx3o7h8iyaxax6og&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+![MasterHead](https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif)
 
-- 🌱 I’m currently learning **more coding**
+<h1 align="center">Hello 👋, I'm Amal</h1>
+
+- 🌱 I’m currently learning coding
 
 <p align="left">
 </p>
